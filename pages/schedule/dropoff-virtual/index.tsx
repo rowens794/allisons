@@ -1,6 +1,6 @@
-import NavBar from "../../../components/navbars/navbar-one";
-import Footer from "../../../components/Footers/Allisons_Custom";
-import Dropzone from "../../../components/Drop-Off-Form/file-drop";
+import NavBar from "../../../components/navbar";
+import Footer from "../../../components/footer";
+import Dropzone from "../../../components/file-drop";
 
 export default function Home() {
   return (

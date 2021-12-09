@@ -4,7 +4,7 @@ import GridWithIcons from "../components/grid_w_icons";
 import LargeBoxes from "../components/large_boxes";
 import AllisonsPanel from "../components/allisons_panel";
 import Contact from "../components/contact";
-import Footer from "../components/footers";
+import Footer from "../components/footer";
 
 export default function Home() {
   return (

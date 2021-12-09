@@ -1,6 +1,6 @@
-import NavBar from "../../../components/navbars/navbar-one";
-import Footer from "../../../components/Footers/Allisons_Custom";
-import VirtualPersonal from "../../../components/Feature_Sections/Appointment_Types/Virtual_Personal";
+import NavBar from "../../../components/navbar";
+import Footer from "../../../components/footer";
+import VirtualPersonal from "../../../components/appointment_types/Virtual_Personal";
 
 export default function Home() {
   return (

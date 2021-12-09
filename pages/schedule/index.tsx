@@ -1,6 +1,6 @@
-import NavBar from "../../components/navbars/navbar-one";
-import Footer from "../../components/Footers/Allisons_Custom";
-import Grid from "../../components/Feature_Sections/Appointment_Selection";
+import NavBar from "../../components/navbar";
+import Footer from "../../components/footer";
+import Grid from "../../components/appointment_selection";
 
 export default function Home() {
   return (

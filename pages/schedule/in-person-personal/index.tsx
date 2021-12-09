@@ -1,6 +1,6 @@
-import NavBar from "../../../components/navbars/navbar-one";
-import Footer from "../../../components/Footers/Allisons_Custom";
-import InPersonPersonal from "../../../components/Feature_Sections/Appointment_Types/In_Person_Personal";
+import NavBar from "../../../components/navbar";
+import Footer from "../../../components/footer";
+import InPersonPersonal from "../../../components/appointment_types/In_Person_Personal";
 
 export default function Home() {
   return (

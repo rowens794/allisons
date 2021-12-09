@@ -1,5 +1,5 @@
-import NavBar from "../../../components/navbars/navbar-one";
-import Footer from "../../../components/Footers/Allisons_Custom";
+import NavBar from "../../../components/navbar";
+import Footer from "../../../components/footer";
 
 export default function Home() {
   return (
